@@ -1,0 +1,16 @@
+site_id,latitude,longitude,location_name,survey_days,habitat_placeholder,note
+0295d49e-a604-4b87-b22e-b6c140fb2807,-20.33638543415252,137.5274523500697,aus,99.41599537037037,unknown,Add real habitat covariates via WildObsR or raster extract
+1a2ea69e-b54b-4283-aadd-04a8af4c62c8,-20.33638543415252,137.5274523500697,aus,0,unknown,Add real habitat covariates via WildObsR or raster extract
+27f7757b-24c2-49d9-9a61-918fd621d6fe,-20.33638543415252,137.5274523500697,aus,37.946863425925926,unknown,Add real habitat covariates via WildObsR or raster extract
+2fc0c250-8cc2-4374-83a3-2e3a2b7f6017,-20.33638543415252,137.5274523500697,aus,4.415393518518519,unknown,Add real habitat covariates via WildObsR or raster extract
+358e39c5-7d06-4a19-8fed-d2580f6291d2,-20.33638543415252,137.5274523500697,aus,116.9996875,unknown,Add real habitat covariates via WildObsR or raster extract
+42544b34-a744-4b04-a769-b1c5dc68129b,-20.33638543415252,137.5274523500697,aus,169.01680555555555,unknown,Add real habitat covariates via WildObsR or raster extract
+45c8e64c-d4d6-48e7-94a7-3f7f92da1afe,-20.33638543415252,137.5274523500697,aus,12.479259259259258,unknown,Add real habitat covariates via WildObsR or raster extract
+47d425d3-79d7-4dfa-be4b-3653ef8dc9b3,-20.33638543415252,137.5274523500697,aus,4.016400462962963,unknown,Add real habitat covariates via WildObsR or raster extract
+50fa9738-4de2-47e6-92bd-996db1fb7696,-20.33638543415252,137.5274523500697,aus,22.27724537037037,unknown,Add real habitat covariates via WildObsR or raster extract
+70065a1b-e995-4401-a8cb-3a62a71a4812,-20.33638543415252,137.5274523500697,aus,63.87079861111111,unknown,Add real habitat covariates via WildObsR or raster extract
+8bfb8ed1-d9ed-48ee-a083-720bdabdf636,-20.33638543415252,137.5274523500697,aus,14.437777777777777,unknown,Add real habitat covariates via WildObsR or raster extract
+9c9b5688-2983-4727-80a5-8f41f7399ab3,-20.33638543415252,137.5274523500697,aus,NA,unknown,Add real habitat covariates via WildObsR or raster extract
+bca9f464-6a0a-475b-ba6f-be363080105f,-20.33638543415252,137.5274523500697,aus,0,unknown,Add real habitat covariates via WildObsR or raster extract
+e3634ec7-f072-4714-80b2-8692da5fbc00,-20.33638543415252,137.5274523500697,aus,0,unknown,Add real habitat covariates via WildObsR or raster extract
+f1720ef7-27d8-4a45-81ab-9aeccee1e834,-20.33638543415252,137.5274523500697,aus,159.8844560185185,unknown,Add real habitat covariates via WildObsR or raster extract
